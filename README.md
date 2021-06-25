@@ -1,4 +1,4 @@
-# Diabetes Prediction Using Machine Learning     <img src='https://www.solulab.com/wp-content/themes/Avada/assets/images/solulab-logo-dark-75.png' alt='github' height='40'>
+# Diabetes Prediction Using Machine Learning     <img src='https://d2cax41o7ahm5l.cloudfront.net/mi/upload-images/diabetes-endocrinology@1235-39787.png' alt='github' height='60'>
 ![Generic badge](https://img.shields.io/badge/Machine-Learning:-green.svg)                              ![Generic badge](https://img.shields.io/badge/Python-V3:-blue.svg)        ![Generic badge](https://img.shields.io/badge/Matplotlib-Pyplot:-orange.svg)               ![Generic badge](https://img.shields.io/badge/SciPy-sklearn:-green.svg)                             ![Generic badge](https://img.shields.io/badge/Numpy:-blue.svg)             ![Generic badge](https://img.shields.io/badge/Pandas:-orange.svg)           ![Generic badge](https://img.shields.io/badge/Support_Vector-Machine:-green.svg)
 
  
