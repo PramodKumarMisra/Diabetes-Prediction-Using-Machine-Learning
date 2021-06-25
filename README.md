@@ -28,9 +28,36 @@ Go to repo section for  datasets.
 I'm using Machine Learning  techniques to predict the diabetes in human.
 I have been trying to solved this problem using  **Machine Learning** algorthms known as **Support Vector Machine(SVM)** but you can use any  algorithms 🇩🇿 for better accuracy.
 
+
+
+**Input Variable are:**
+
+Pregnancies
+
+Glucose
+
+BloodPressure
+
+SkinThickness
+
+Insulin
+
+BMI
+
+DiabetesPedigreeFunction
+
+Age
+
+
+
+**Output variable is:**
+
+**Outcome**
+
 ***1----> Stand for Suffering from: Diabetes.***
 
 ***0----> Stand for NOT Suffering from Diabetes.***
+
 
 
 **Reference :** https://www.ijert.org/diabetes-prediction-using-machine-learning-techniques
