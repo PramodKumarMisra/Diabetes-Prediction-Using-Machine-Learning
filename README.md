@@ -30,7 +30,7 @@ I have been trying to solved this problem using  **Machine Learning** algorthms 
 
 
 
-**Input Variable are:**
+**Independent Variable are:**
 
 Pregnancies
 
@@ -50,7 +50,7 @@ Age
 
 
 
-**Output variable is:**
+**Dependent variable is:**
 
 **Outcome**
 
